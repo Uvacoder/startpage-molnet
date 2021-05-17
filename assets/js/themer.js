@@ -134,6 +134,14 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 });
                 return;
 
+            case 'molnet':
+                setTheme({
+                    'color-background': '#FFFFFF',
+                    'color-text-pri': '#333333',
+                    'color-text-acc': '#999999'
+                });
+                return;
+
         }
     })
 }
