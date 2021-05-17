@@ -137,8 +137,8 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
             case 'molnet':
                 setTheme({
                     'color-background': '#366164',
-                    'color-text-pri': '#53BBAD',
-                    'color-text-acc': '#EEEEEE'
+                    'color-text-pri': '#EEEEEE',
+                    'color-text-acc': '#53BBAD'
                 });
                 return;
 
