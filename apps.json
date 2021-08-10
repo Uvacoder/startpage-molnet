@@ -12,12 +12,12 @@
         {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
         {"name":"Ombi","url":"request.example.com","icon":"file-find-outline"},
         {"name":"Pi-hole","url":"pihole.example.com","icon":"do-not-disturb"},
-        {"name":"Plex","url":"play.example.com","icon":"plex"},
+        {"name":"Plex","url":"plex.molnet.io","icon":"plex"},
         {"name":"Portainer","url":"port1.example.com","icon":"docker"},
-        {"name":"Radarr","url":"movies.example.com","icon":"filmstrip"},
-        {"name":"Sonarr","url":"tv.example.com","icon":"television-box"},
+        {"name":"Radarr","url":"radarr.molnet.io","icon":"filmstrip"},
+        {"name":"Sonarr","url":"sonarr.molnet.io","icon":"television-box"},
         {"name":"Stackedit","url":"md.example.com","icon":"markdown"},
-        {"name":"Transmission","url":"dl.example.com","icon":"progress-download"},
+        {"name":"Transmission","url":"dl.molnet.io","icon":"progress-download"},
         {"name":"Ubooquity","url":"opds.example.com","icon":"library-shelves"},
         {"name":"Youtube-DL","url":"yt.example.com","icon":"youtube"}
     ]
